@@ -1,2 +1,2 @@
-# Curso de Programação em R
+# Curso de Desenvolvimento de Aplicações Econométricas em Programação em R
 Programação em R
