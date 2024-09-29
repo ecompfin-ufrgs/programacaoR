@@ -34,8 +34,8 @@ de questão.  Assim, a única limitação para se criar um objeto em memória é
 ## Implementações
 
 Como dissemos, há duas implementações principais da linguagem S, quais sejam, o ambiente S-plus e o ambiente R.  Nosso foco
-aqui é exclusivamente a implementação realizada pelo ambiente R, ainda que, por vezes, mencionemos o S-plus para fins de
-comparação.
+aqui é exclusivamente a implementação realizada pelo ambiente R, ainda que, por vezes, mencionemos a implementação realizada
+pelo ambinete S-plus para fins de comparação.
 
 Por isso, o padrão a que nos referimos é o proposto pelo R Core Team em 
 [R languagem definition](https://cran.r-project.org/doc/manuals/r-release/R-lang.html)
