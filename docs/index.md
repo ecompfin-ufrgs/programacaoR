@@ -2,10 +2,11 @@
 
 Este é o site do curso de desenvolvimento de aplicações econométricas na linguagem R.  O curso se divide em cinco módulos:
 - [Introdução à programação com R](intProgR.md)
-- [Econometria clássica com R](ecmtClass.md)
-- [Econometria de séries de tempo com R](ecmtTempo.md)
+- [processamento analítico de dados estatísticos com R](analDadosR.md)
 - [Programação funcional em R](progFuncR.md)
-- [Desenvolvimento de aplicações econométricas em R](desAppR.md)
+- [Desenvolvimento de aplicações econométricas de linhas de comando I: algoritmos da econometria clássica](desAppEcnmt1R.md)
+- [Desenvolvimento de aplicações econométricas de linhas de comando II: algoritmos da econometria de séries de tempo](desAppEcnmt2R.md)
+- 
 
 O primeiro módulo apresenta as características da linguagem, léxico, objetos, variáveis, operações de entrada e saída, programação sequencial, estruturada, procedural e modular em R.  O segundo módulo apresenta funções e pacotes R para solução de problemas econométricos clássicos, construindo-se em cima do módulo anterior, ou seja, além de aprender a usar as funções o aluno escreverá pequenos programas em R que automatizarão a solução dos mesmos.  O mesmo se repete no terceiro módulo, mas agora o foco são as funções para inferência de processos estocásticos.
 
