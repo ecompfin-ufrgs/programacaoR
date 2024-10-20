@@ -1,0 +1,7 @@
+# Variáveis
+
+## Definição
+
+## Declaração
+
+## Atribuição
